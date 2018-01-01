@@ -4,6 +4,7 @@ db
 build
 *.env
 .*.env
+.vscode
 
 ### OSX ###
 .DS_Store
